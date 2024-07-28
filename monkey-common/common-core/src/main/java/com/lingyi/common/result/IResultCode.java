@@ -1,7 +1,7 @@
 package com.lingyi.common.result;
 
 /**
- * @author haoxr
+ * @author Yixiaoyi03
  **/
 public interface IResultCode {
 

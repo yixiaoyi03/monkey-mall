@@ -2,7 +2,7 @@ package com.lingyi.gateway.sentinel;
 
 import com.alibaba.csp.sentinel.adapter.gateway.sc.callback.BlockRequestHandler;
 import com.alibaba.csp.sentinel.adapter.gateway.sc.callback.GatewayCallbackManager;
-import com.youlai.common.result.ResultCode;
+import com.lingyi.common.result.ResultCode;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;
@@ -14,7 +14,7 @@ import javax.annotation.PostConstruct;
 /**
  * 自定义网关流控异常
  *
- * @author haoxr
+ * @author Yixiaoyi03
  * @date 2022/7/24
  */
 @Configuration

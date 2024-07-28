@@ -2,10 +2,10 @@ package com.lingyi.gateway.captcha.handler;
 
 import cn.hutool.core.util.IdUtil;
 import com.wf.captcha.base.Captcha;
-import com.youlai.common.constant.SecurityConstants;
-import com.youlai.common.result.Result;
-import com.youlai.gateway.captcha.enums.CaptchaTypeEnum;
-import com.youlai.gateway.captcha.producer.CaptchaProducer;
+import com.lingyi.common.constant.SecurityConstants;
+import com.lingyi.common.result.Result;
+import com.lingyi.gateway.captcha.enums.CaptchaTypeEnum;
+import com.lingyi.gateway.captcha.producer.CaptchaProducer;
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.data.redis.core.StringRedisTemplate;
@@ -23,7 +23,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * 验证码处理器
  *
- * @author haoxr
+ * @author Yixiaoyi03
  * @date 2021/10/4
  */
 @Component

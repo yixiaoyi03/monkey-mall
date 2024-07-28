@@ -17,7 +17,7 @@ import java.util.Enumeration;
 /**
  * Feign相关配置类
  *
- * @author Gadfly
+ * @author Yixiaoyi03
  * @since 2021-08-06 9:47
  */
 

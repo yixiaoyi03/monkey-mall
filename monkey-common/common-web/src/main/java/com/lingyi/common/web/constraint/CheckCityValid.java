@@ -12,7 +12,7 @@ import static java.lang.annotation.RetentionPolicy.RUNTIME;
 /**
  * 校验城市地名等是否合法，不接受null
  *
- * @author Gadfly
+ * @author Yixiaoyi03
  * @since 2021-08-06 16:02
  */
 @Documented

@@ -8,7 +8,7 @@ import org.springframework.web.multipart.MultipartFile;
  * <p>
  * 已实现 MinIO
  *
- * @author haoxr
+ * @author Yixiaoyi03
  * @date 2022/11/19
  */
 public interface FileService {

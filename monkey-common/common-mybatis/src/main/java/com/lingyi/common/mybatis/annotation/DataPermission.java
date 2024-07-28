@@ -7,7 +7,7 @@ import java.lang.annotation.*;
  * <p>
  * https://gitee.com/baomidou/mybatis-plus/issues/I37I90
  *
- * @author <a href="mailto:2256222053@qq.com">zc</a>
+ * @author Yixiaoyi03
  * @Date 2021-12-10 15:48
  */
 @Documented

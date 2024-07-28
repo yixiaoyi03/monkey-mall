@@ -14,7 +14,7 @@ import springfox.documentation.swagger.web.SwaggerResourcesProvider;
 /**
  * 聚合各个服务的swagger接口
  *
- * @author haoxr
+ * @author Yixiaoyi03
  * @date 2022/5/17 0:53
  */
 @Component

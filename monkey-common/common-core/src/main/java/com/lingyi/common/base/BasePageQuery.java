@@ -5,7 +5,7 @@ import io.swagger.annotations.ApiModelProperty;
 import lombok.Data;
 
 /**
- * @author huawei
+ * @author Yixiaoyi03
  * @desc 基础分页请求对象
  * @email huawei_code@163.com
  * @date 2021/2/28

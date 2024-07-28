@@ -3,7 +3,7 @@ package com.lingyi.common.constant;
 /**
  * 系统常量
  *
- * @author haoxr
+ * @author Yixiaoyi03
  * @date 2021/10/30 9:32
  */
 public interface SystemConstants {

@@ -82,17 +82,17 @@
 
         <!-- 公共依赖 -->
         <dependency>
-            <groupId>com.youlai</groupId>
+            <groupId>com.lingyi</groupId>
             <artifactId>common-core</artifactId>
         </dependency>
 
         <dependency>
-            <groupId>com.youlai</groupId>
+            <groupId>com.lingyi</groupId>
             <artifactId>common-log</artifactId>
         </dependency>
 
         <dependency>
-            <groupId>com.youlai</groupId>
+            <groupId>com.lingyi</groupId>
             <artifactId>common-redis</artifactId>
         </dependency>
 

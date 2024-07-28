@@ -14,7 +14,7 @@ import org.springframework.web.util.pattern.PathPatternParser;
 /**
  * OAuth Client Security 配置
  *
- * @author haoxr
+ * @author Yixiaoyi03
  * @date 2022/8/28
  */
 @EnableWebFluxSecurity

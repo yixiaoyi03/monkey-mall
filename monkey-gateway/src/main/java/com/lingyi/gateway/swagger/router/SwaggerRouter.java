@@ -1,8 +1,8 @@
 package com.lingyi.gateway.swagger.router;
 
-import com.youlai.gateway.swagger.handler.SwaggerResourceHandler;
-import com.youlai.gateway.swagger.handler.SwaggerSecurityHandler;
-import com.youlai.gateway.swagger.handler.SwaggerUiHandler;
+import com.lingyi.gateway.swagger.handler.SwaggerResourceHandler;
+import com.lingyi.gateway.swagger.handler.SwaggerSecurityHandler;
+import com.lingyi.gateway.swagger.handler.SwaggerUiHandler;
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -15,7 +15,7 @@ import org.springframework.web.reactive.function.server.ServerResponse;
 /**
  * Swagger路由
  *
- * @author haoxr
+ * @author Yixiaoyi03
  * @date 2022/5/16 16:34
  */
 @Configuration

@@ -2,7 +2,7 @@ package com.lingyi.gateway.captcha.producer;
 
 import com.wf.captcha.*;
 import com.wf.captcha.base.Captcha;
-import com.youlai.gateway.captcha.enums.CaptchaTypeEnum;
+import com.lingyi.gateway.captcha.enums.CaptchaTypeEnum;
 
 import java.awt.*;
 

@@ -18,7 +18,7 @@ import java.util.stream.Collectors;
  * <p>
  * 获取登录用户信息(用户名、角色、部门)
  *
- * @author haoxr
+ * @author Yixiaoyi03
  * @date 2022/10/29
  */
 public class SecurityUtils {

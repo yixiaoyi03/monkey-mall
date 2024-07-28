@@ -5,16 +5,16 @@ spring:
   main:
     allow-bean-definition-overriding: true
   application:
-    name: youlai-gateway
+    name: lingyi-gateway
   cloud:
     nacos:
       discovery:
         server-addr: nacos-headless.infrastructure:8848   # 使用k8s无头服务
-        namespace: youlai-namespace-id
+        namespace: lingyi-namespace-id
       config:
         server-addr: ${spring.cloud.nacos.discovery.server-addr}
         file-extension: yaml
-        namespace: youlai-namespace-id
+        namespace: lingyi-namespace-id
         shared-configs[0]:
-          data-id: youlai-common.yaml
+          data-id: lingyi-common.yaml
           refresh: true

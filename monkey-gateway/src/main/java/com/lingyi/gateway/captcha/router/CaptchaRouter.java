@@ -1,6 +1,6 @@
 package com.lingyi.gateway.captcha.router;
 
-import com.youlai.gateway.captcha.handler.CaptchaHandler;
+import com.lingyi.gateway.captcha.handler.CaptchaHandler;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.http.MediaType;
@@ -12,7 +12,7 @@ import org.springframework.web.reactive.function.server.ServerResponse;
 /**
  * 验证码路由
  *
- * @author haoxr
+ * @author Yixiaoyi03
  * @date 2022/5/17 12:10
  */
 @Configuration

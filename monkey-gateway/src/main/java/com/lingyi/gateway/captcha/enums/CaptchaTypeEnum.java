@@ -3,7 +3,7 @@ package com.lingyi.gateway.captcha.enums;
 /**
  * 验证码类型枚举
  *
- * @author haoxr
+ * @author Yixiaoyi03
  * @date 2022/5/18 12:14
  */
 public enum CaptchaTypeEnum {

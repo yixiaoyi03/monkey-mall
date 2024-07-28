@@ -14,7 +14,7 @@ import org.springframework.context.annotation.Configuration;
 /**
  * 分布式锁 Redisson 配置
  *
- * @author huawei
+ * @author Yixiaoyi03
  * @email huawei_code@163.com
  * @date 2021/2/22
  */

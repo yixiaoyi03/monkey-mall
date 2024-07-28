@@ -6,7 +6,7 @@ import lombok.ToString;
 import java.io.Serializable;
 
 /**
- * @author huawei
+ * @author Yixiaoyi03
  * @desc VO 基类
  * @email huawei_code@163.com
  * @date 2021/1/11

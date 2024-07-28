@@ -8,7 +8,7 @@ import java.util.List;
 /**
  * Canal 消息对象
  *
- * @author haoxr
+ * @author Yixiaoyi03
  * @date 2021/11/4 23:59
  */
 @NoArgsConstructor

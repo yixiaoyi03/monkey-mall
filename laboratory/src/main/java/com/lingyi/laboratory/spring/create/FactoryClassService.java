@@ -1,0 +1,18 @@
+package com.lingyi.laboratory.spring.create;
+
+import com.lingyi.laboratory.spring.Bean;
+
+/**
+ *
+ * 静态工厂实例化bean
+ * @author Yixiaoyi03
+ * @Date 2022/2/18 0018 23:37
+ */
+public class FactoryClassService {
+    private static Bean bean = new Bean();
+    private FactoryClassService() {}
+    public static Bean createInstance() {
+        System.out.println("静态工厂方法实例化bean");
+        return bean;
+    }
+}

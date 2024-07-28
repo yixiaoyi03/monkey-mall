@@ -13,7 +13,7 @@ import javax.validation.ValidatorFactory;
 /**
  * 运行时入参校验配置
  *
- * @author haoxr
+ * @author Yixiaoyi03
  * @date 2022/11/10
  */
 @Configuration

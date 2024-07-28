@@ -9,7 +9,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * @author huawei
+ * @author Yixiaoyi03
  * @email huawei_code@163.com
  * @date 2021/1/17
  */

@@ -9,7 +9,7 @@ import org.springframework.context.annotation.Configuration;
  * <p>
  * 配置文件 lingyi-common.yml
  *
- * @author haoxr
+ * @author Yixiaoyi03
  * @date 2021/10/13 22:44
  */
 @ConfigurationProperties(prefix = "aliyun.sms")
