@@ -1,0 +1,2 @@
+com.lingyi.common.file.service.impl.MinioServiceImpl
+com.lingyi.common.file.controller.FileController

@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: monkey-gateway
+  profiles:
+    active: dev

@@ -1,0 +1,3 @@
+  com.lingyi.common.web.config.WebMvcConfig
+  com.lingyi.common.web.config.FeignConfig
+  com.lingyi.common.web.exception.GlobalExceptionHandler

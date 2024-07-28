@@ -1,0 +1,4 @@
+com.lingyi.common.security.service.PermissionService
+com.lingyi.common.security.config.ResourceServerConfig
+com.lingyi.common.security.exception.MyAccessDeniedHandler
+com.lingyi.common.security.exception.MyAuthenticationEntryPoint
